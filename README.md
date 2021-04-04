@@ -14,4 +14,4 @@ Make sure PyQt5 is installed on your device.
 Run map.py file with python3 in terminal.
 
 App Idea Credits:
-Dikshant Chadha
+Dikshant Chadha(Github: dikshantchadha77)
