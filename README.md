@@ -10,4 +10,5 @@ The user has to select the nearest building to them and the app shows the neares
 How to run
 
 Make sure PyQt5 is installed on your device.
-Run map.py file with python3.
+
+Run map.py file with python3 in terminal.
